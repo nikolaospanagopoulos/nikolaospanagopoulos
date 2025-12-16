@@ -11,4 +11,6 @@ Hello there! 👋 I'm a passionate Software Engineer currently weaving code magi
 💡 Looking Forward: I am always on the lookout for innovative ideas and collaborations that push the boundaries of what's possible. Whether it's optimizing algorithms, exploring new technologies, or contributing to open-source projects, I'm all in.
 
 Let's connect! Whether you're interested in discussing technology, seeking advice, or collaborating on a project, I'm just a message away. Together, let's code the future.
+
+
 ![Codewars](https://github.r2v.ch/codewars?user=nikolaospanagopoulos)
